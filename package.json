@@ -1,0 +1,15 @@
+{
+  "name": "ahmed-ceiling",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npx vite --port 3000 --open",
+    "build": "npx vite build",
+    "preview": "npx vite preview",
+    "start": "npx vite --port 3000"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  }
+}
